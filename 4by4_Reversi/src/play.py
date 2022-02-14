@@ -193,7 +193,7 @@ B2 = [[0, 1, 1, 0], [0, 1, 1, None], [0, 0, 1, None], [None, None, None, 1]]
 # main.print_win_rate_Graph()
 
 
-#ありがとう兒玉先生 BLACK
+#BLACK
 #W1 = [[0, 0, 0, None], [0, 0, 1, None], [0, 0, 1, None], [1, 0, None, 1]]
 # W2 = [[0, 0, 0, None], [0, 0, 0, None], [0, 0, 0, None], [1, None, 0, 1]]
 # W3 = [[0, 0, 0, None], [0, 0, 0, 0], [0, 1, 1, None], [1, None, None, 1]]
